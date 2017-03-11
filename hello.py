@@ -1,0 +1,2 @@
+	name='Dima'
+	print(name)
